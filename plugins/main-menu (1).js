@@ -56,53 +56,53 @@ let menu = `𔓕꯭  ꯭ :*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼
  *❁☆ 𝕃𝕀𝕊𝕋𝔸 • 𝔻𝔼 • ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 ❁☆* 
 
 ┏━━❃「 𝑰𝑵𝑭𝑶 - 𝑩𝑶𝑻  」❃
-┃❀ .botreglas
-┃❀ .menu
-┃❀ .menujuegos
-┃❀ .menuanime
-┃❀ .menuhorny 
-┃❀ .menuaudios 
-┃❀ .runtime
-┃❀ .script
-┃❀ .staff
-┃❀ .blocklist
+┃☆ .botreglas
+┃☆ .menu
+┃☆ .menujuegos
+┃☆ .menuanime
+┃☆ .menuhorny 
+┃☆ .menuaudios 
+┃☆ .runtime
+┃☆ .script
+┃☆ .staff
+┃☆ .blocklist
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━❃「 𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵ᚐ 」❃
-┃✿ .creador
-┃✿ .editautoresponder
-┃✿ .owner
-┃✿ .dash
-┃✿ .dashboard
-┃✿ .views
-┃✿ .database
-┃✿ .usuarios
-┃✿ .user
-┃✿ .ds
-┃✿ .listprem
-┃✿ .status
-┃✿ .solicitud *<mensaje>*
-┃✿ .sug *<mensaje>*
-┃✿ .horario
-┃✿ .luminary's 
-┃✿ .infobot
-┃✿ .ping
-┃✿ .reportar
-┃✿ .sistema
-┃✿ .speed
-┃✿ .speedtest
-┃✿ .reportar
+┃❁ .creador
+┃❁ .editautoresponder
+┃❁ .owner
+┃❁ .dash
+┃❁ .dashboard
+┃❁ .views
+┃❁ .database
+┃❁ .usuarios
+┃❁ .user
+┃❁ .ds
+┃❁ .listprem
+┃❁ .status
+┃❁ .solicitud *<mensaje>*
+┃❁ .sug *<mensaje>*
+┃❁ .horario
+┃❁ .luminary's 
+┃❁ .infobot
+┃❁ .ping
+┃❁ .reportar
+┃❁ .sistema
+┃❁ .speed
+┃❁ .speedtest
+┃❁ .reportar
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━❃「 𝑹𝑬𝑮𝑰𝑺𝑻𝑹𝑶 」❃
-┃❋ .reg
-┃❋ .unreg
-┃❋ .profile
-┃❋ .marry
-┃❋ .setgenre
-┃❋ .delgenre
-┃❋ .setbirth
-┃❋ .delbirth
-┃❋ .setdescription
-┃❋ .deldescription
+┃✺ .reg
+┃✺ .unreg
+┃✺ .profile
+┃✺ .marry
+┃✺ .setgenre
+┃✺ .delgenre
+┃✺ .setbirth
+┃✺ .delbirth
+┃✺ .setdescription
+┃✺ .deldescription
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━⪩「 𝑫𝑰𝑽𝑬𝑹𝑪𝑰𝑶𝑵 」⪨
 ┃☬ .amistad
@@ -167,65 +167,65 @@ let menu = `𔓕꯭  ꯭ :*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼
 ┃✧ .verdad
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━⪩「 𝑬𝑴𝑶𝑿 - 𝑨𝑵𝑰𝑴𝑬」⪨
-┃✥ .angry/enojado @tag
-┃✥ .bath/bañarse @tag
-┃✥ .bite/morder @tag
-┃✥ .bleh/lengua @tag
-┃✥ .blush/sonrojarse @tag
-┃✥ .bored/aburrido @tag
-┃✥ .coffe/cafe @tag
-┃✥ .cry/llorar @tag
-┃✥ .cuddle/acurrucarse @tag
-┃✥ .dance/bailar @tag
-┃✥ .drunk/borracho @tag
-┃✥ .eat/comer @tag
-┃✥ .facepalm/palmada @tag
-┃✥ .grop/manosear @tag
-┃✥ .happy/feliz @tag
-┃✥ .hello/hola @tag
-┃✥ .hug/abrazar @tag
-┃✥ .kill/matar @tag
-┃✥ .kiss/besar @tag
-┃✥ .kiss2/besar2 @tag
-┃✥ .laugh/reirse @tag
-┃✥ .lick/lamer @tag
-┃✥ .love2/enamorada @tag
-┃✥ .patt/acariciar @tag
-┃✥ .poke/picar @tag
-┃✥ .pout/pucheros @tag
-┃✥ .preg/embarazar @tag
-┃✥ .punch/golpear @tag
-┃✥ .run/correr @tag
-┃✥ .sad/triste @tag
-┃✥ .scared/asustada @tag
-┃✥ .seduce/seducir @tag
-┃✥ .shy/timida @tag
-┃✥ .slap/bofetada @tag
-┃✥ .sleep/dormir @tag
-┃✥ .smoke/fumar @tag
-┃✥ .think/pensando @tag
-┃✥ .undress/encuerar @tag
+┃☆ .angry/enojado @tag
+┃☆ .bath/bañarse @tag
+┃☆ .bite/morder @tag
+┃☆ .bleh/lengua @tag
+┃☆ .blush/sonrojarse @tag
+┃☆ .bored/aburrido @tag
+┃☆ .coffe/cafe @tag
+┃☆ .cry/llorar @tag
+┃☆ .cuddle/acurrucarse @tag
+┃☆ .dance/bailar @tag
+┃☆ .drunk/borracho @tag
+┃☆ .eat/comer @tag
+┃☆ .facepalm/palmada @tag
+┃☆ .grop/manosear @tag
+┃☆ .happy/feliz @tag
+┃☆ .hello/hola @tag
+┃☆ .hug/abrazar @tag
+┃☆ .kill/matar @tag
+┃☆ .kiss/besar @tag
+┃☆ .kiss2/besar2 @tag
+┃☆ .laugh/reirse @tag
+┃☆ .lick/lamer @tag
+┃☆ .love2/enamorada @tag
+┃☆ .patt/acariciar @tag
+┃☆ .poke/picar @tag
+┃☆ .pout/pucheros @tag
+┃☆ .preg/embarazar @tag
+┃☆ .punch/golpear @tag
+┃☆ .run/correr @tag
+┃☆ .sad/triste @tag
+┃☆ .scared/asustada @tag
+┃☆ .seduce/seducir @tag
+┃☆ .shy/timida @tag
+┃☆ .slap/bofetada @tag
+┃☆ .sleep/dormir @tag
+┃☆ .smoke/fumar @tag
+┃☆ .think/pensando @tag
+┃☆ .undress/encuerar @tag
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━⪩「 𝑯𝑶𝑹𝑵𝑰ᚐ 」⪨
-┃✤ .sixnine/69 @tag
-┃✤ .anal/culiar @tag
-┃✤ .blowjob/mamada @tag
-┃✤ .boobjob/rusa @tag
-┃✤ .cum/leche @tag
-┃✤ .fap/paja @tag
-┃✤ .follar @tag
-┃✤ .footjob/pies @tag
-┃✤ .fuck/coger @tag
-┃✤ .fuck2/coger2 @tag
-┃✤ .grabboobs/agarrartetas @tag
-┃✤ .penetrar @user
-┃✤ .lickpussy/coño @tag
-┃✤ .sexo/sex @tag
-┃✤ .spank/nalgada @tag
-┃✤ .suckboobs/chupartetas @tag
-┃✤ .violar/perra @tag
-┃✤ .lesbianas/tijeras @tag
-┃✤ .rule34 <personaje>
+┃♥︎ .sixnine/69 @tag
+┃♥︎ .anal/culiar @tag
+┃♥︎ .blowjob/mamada @tag
+┃♥︎ .boobjob/rusa @tag
+┃♥︎ .cum/leche @tag
+┃♥︎ .fap/paja @tag
+┃♥︎ .follar @tag
+┃♥︎ .footjob/pies @tag
+┃♥︎ .fuck/coger @tag
+┃♥︎ .fuck2/coger2 @tag
+┃♥︎ .grabboobs/agarrartetas @tag
+┃♥︎ .penetrar @user
+┃♥︎ .lickpussy/coño @tag
+┃♥︎ .sexo/sex @tag
+┃♥︎ .spank/nalgada @tag
+┃♥︎ .suckboobs/chupartetas @tag
+┃♥︎ .violar/perra @tag
+┃♥︎ .lesbianas/tijeras @tag
+┃♥︎ .rule34 <personaje>
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━⪩「 𝑹𝑶𝑳𝑳𝑾𝑨𝑰𝑭𝑼𝑺 」⪨
 ┃✦ .character
@@ -237,28 +237,28 @@ let menu = `𔓕꯭  ꯭ :*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼
 ┃✦ .toprw
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━⪩「 𝑬𝑪𝑶𝑵𝑶𝑴𝑰𝑨𝑺ᚐ 」⪨
-┃✱ .apostar 
-┃✱ .bal
-┃✱ .bank
-┃✱ .dragones
-┃✱ .prestar
-┃✱ .deuda
-┃✱ .pagar
-┃✱ .apostar *<cantidad>*
-┃✱ .cf
-┃✱ .crimen
-┃✱ .depositar
-┃✱ .minar
-┃✱ .retirar
-┃✱ .rob2
-┃✱ .rob
-┃✱ .ruleta *<cantidad> <color>*
-┃✱ .Buy
-┃✱ .Buyall
-┃✱ .slot <apuesta>
-┃✱ .slut
-┃✱ .trabajar
-┃✱ .transfer [tipo] [cantidad] [@tag]
+┃ღ .apostar 
+┃ღ .bal
+┃ღ .bank
+┃ღ .dragones
+┃ღ .prestar
+┃ღ .deuda
+┃ღ .pagar
+┃ღ .apostar *<cantidad>*
+┃ღ .cf
+┃ღ .crimen
+┃ღ .depositar
+┃ღ .minar
+┃ღ .retirar
+┃ღ .rob2
+┃ღ .rob
+┃ღ .ruleta *<cantidad> <color>*
+┃ღ .Buy
+┃ღ .Buyall
+┃ღ .slot <apuesta>
+┃ღ .slut
+┃ღ .trabajar
+┃ღ .transfer [tipo] [cantidad] [@tag]
 ┗━━━━━━━━━━━━━━━━━⪩
 ┏━━⪩「 𝑹-𝑷-𝑮ᚐ 」⪨
 ┃♤ .adventure
