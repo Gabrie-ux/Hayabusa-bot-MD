@@ -1,5 +1,5 @@
 {
-"name": "Vegeta_Super-Bot",
+"name": "Vegeta_Bot-MB",
 "version": "2.1.5",
 "description": "Super WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/brayan127p/Vegeta_Super_Bot-V12",
+"homepage": "https://github.com/brayan127p/VEGETA-BOT-MB",
 "author": {
 "name": "The_Brayan-Oficial"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/brayan127p/Vegeta_Super_Bot-V12.git"
+"url": "git+https://github.com/brayan127p/VEGETA-BOT-MB.git"
 },
 "bugs": {
-"url": "https://github.com/brayan127p/Vegeta_Super_Bot-V12/issues"
+"url": "https://github.com/brayan127p/VEGETA-BOT-MB/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
