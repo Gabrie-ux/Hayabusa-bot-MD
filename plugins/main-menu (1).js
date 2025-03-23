@@ -497,7 +497,7 @@ let menu = `𔓕꯭  ꯭ :*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼
 ┃🜲 >
 ┃🜲 =>
 ┗━━━━━━━━━━━━━━━━━⪨
-> © 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 *☆꧁༒BRAYAN༒꧂☆*`trim()
+> © 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 *☆꧁༒BRAYAN༒꧂☆*`.trim()
 
 await conn.sendMessage(m.chat, { video: { url: vid.getRandom() }, caption: menu, contextInfo: { mentionedJid: [m.sender], isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, newsletterName: channelRD.name, serverMessageId: -1, }, forwardingScore: 999, externalAdReply: { title: '〽️ ꙰,𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃', body: dev, thumbnailUrl: perfil, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false,
 }, }, gifPlayback: true, gifAttribution: 0 }, { quoted: null })
