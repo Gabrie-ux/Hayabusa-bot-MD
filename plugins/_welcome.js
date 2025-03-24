@@ -53,7 +53,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
   if (chat.welcome) {
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
       let bienvenida = `┏━━━━━━━━━━━━━━━━┅┈
-┃      🄱🄸🄴🄽🅅🄴🄽🄸🄳🄾
+┃      𝔹𝕀𝔼ℕ𝕍𝔼ℕ𝕀𝔻𝕆
 ┣━━━━━━━━━━━━━━━━┅┈
 ┃ ᴜsᴜᴀʀɪᴏ: ${taguser}
 ┃
@@ -73,7 +73,7 @@ ${fraseRandomBienvenida}`
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_LEAVE ||
         m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_REMOVE) {
       let despedida = `┏━━━━━━━━━━━━━━━━┅┈
-┃       🄱.    🄰.    🅈.
+┃       𝔹.    𝔸.    𝕐.
 ┣━━━━━━━━━━━━━━━━┅┈
 ┃ ᴜsᴜᴀʀɪᴏ: ${taguser}
 ┃
