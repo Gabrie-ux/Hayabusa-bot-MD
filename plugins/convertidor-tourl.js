@@ -30,9 +30,9 @@ let handler = async (m, { conn }) => {
   }
 };
 
-handler.help = ['up'];
+handler.help = ['tourl'];
 handler.tags = ['transformador'];
-handler.command = ['tourl'];
+handler.command = ['tourl', 'upload']
 
 export default handler;
 
