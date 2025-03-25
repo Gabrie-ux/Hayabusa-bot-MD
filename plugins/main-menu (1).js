@@ -511,7 +511,7 @@ await m.react(error)
 handler.help = ['menu']
 handler.tags = ['main']
 handler.command = ['menu', 'help', 'menú', 'allmenú', 'allmenu', 'menucompleto'] 
-handler.reg = true
+handler.todos = true
 export default handler
 
 const more = String.fromCharCode(8206)
