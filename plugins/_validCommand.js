@@ -1,4 +1,4 @@
-/"export async function before(m) {
+/*export async function before(m) {
   if (!m.text || !global.prefix.test(m.text)) {
     return;
   }
