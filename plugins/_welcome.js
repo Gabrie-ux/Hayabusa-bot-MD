@@ -65,7 +65,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
 ┃
 ┗━━━━━━━━━━━━━━━━┅┈
 
-> Frase de bienvenida 
+> 𝐅𝐫𝐚𝐜𝐞 𝐝𝐞 𝐛𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐚 
 ${fraseRandomBienvenida}` 
       await conn.sendMessage(m.chat, { video: { url: videoUrl }, gifPlayback: true, caption: bienvenida, mentions: [who] })
     }
@@ -84,7 +84,7 @@ ${fraseRandomBienvenida}`
 ┃ ғᴇᴄʜᴀ: ${date}
 ┃
 ┗━━━━━━━━━━━━━━━━┅┈
-> Frase de despedida
+> 𝐅𝐫𝐚𝐜𝐞 𝐝𝐞 𝐝𝐞𝐬𝐩𝐞𝐝𝐢𝐝𝐚
 ${fraseRandomDespedida}` 
       await conn.sendMessage(m.chat, { video: { url: videoUrl }, gifPlayback: true, caption: despedida, mentions: [who] })
     }
