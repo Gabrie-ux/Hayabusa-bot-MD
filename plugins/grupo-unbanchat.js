@@ -7,7 +7,7 @@ await conn.reply(m.chat, '🍬 *¡𝚅𝚎𝚐𝚎𝚝𝚊-𝙱𝚘𝚝-𝙼𝙱
 }
 handler.help = ['unbanchat'];
 handler.tags = ['grupo'];
-handler.command = ['mimir','desbanearchat','desbanchat']
+handler.command = ['desmimir','desbanearchat','desbanchat']
 handler.admin = true 
 handler.botadmin = true
 handler.group = true
