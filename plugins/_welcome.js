@@ -48,7 +48,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
   let fraseRandomBienvenida = frasesBienvenida[Math.floor(Math.random() * frasesBienvenida.length)]
   let fraseRandomDespedida = frasesDespedida[Math.floor(Math.random() * frasesDespedida.length)]
 
-  let videoUrl = 'https://files.catbox.moe/jlgz1s.mp4'
+  let videoUrl = 'https://files.catbox.moe/e3f6sh.mp4'
 
   if (chat.welcome) {
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
