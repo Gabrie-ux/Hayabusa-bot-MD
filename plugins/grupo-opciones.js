@@ -19,7 +19,7 @@ const handler = async (m, { conn, participants, groupMetadata }) => {
 ◈ Antitraba: ${antiTraba ? 'Activado' : 'Desactivado'}
 ◈ antifake: ${antifake ? 'Activado' : 'Desactivado'}
 
-> Nota: ᴘᴜᴇᴅᴇs ᴀᴄᴛɪᴠᴀʀ ᴜɴᴀ ᴅᴇ ᴇsᴛᴀs ᴏᴘᴄɪᴏɴᴇs ᴅᴇ ᴇsᴛᴀ ᴍᴀɴᴇʀᴀ 𝗘𝗷𝗲𝗺𝗽𝗹𝗼: .antilink`.trim();
+> Nota: ᴘᴜᴇᴅᴇs ᴀᴄᴛɪᴠᴀʀ ᴜɴᴀ ᴅᴇ ᴇsᴛᴀs ᴏᴘᴄɪᴏɴᴇs ᴅᴇ ᴇsᴛᴀ ᴍᴀɴᴇʀᴀ 𝗘𝗷𝗲𝗺𝗽𝗹𝗼: #antilink`.trim();
 
   await conn.sendFile(m.chat, icons, 'yuki.jpg', text, m, true, {
     contextInfo: {
