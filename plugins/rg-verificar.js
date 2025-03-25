@@ -28,7 +28,7 @@ fechaBio = biografia[0].setAt ? new Date(biografia[0].setAt).toLocaleDateString(
   let [_, name, splitter, age] = text.match(Reg)
   if (!name) return m.reply('🚫 El nombre no puede estar vacío.')
   if (!age) return m.reply('‼️ La edad no puede estar vacía.')
-  if (name.length >= 100) return m.reply('💐 El nombre es demasiado largo.' )
+  if (name.length >= 100) return m.reply('🌪️ El nombre es demasiado largo.' )
   age = parseInt(age)
   if (age > 1000) return m.reply('🗯️ Wow el abuelo quiere jugar al bot.')
   if (age < 5) return m.reply(',♨️ hay un abuelo bebé jsjsj. ')
