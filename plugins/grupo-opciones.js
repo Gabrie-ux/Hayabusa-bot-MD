@@ -21,7 +21,7 @@ const handler = async (m, { conn, participants, groupMetadata }) => {
 
 > Nota: ᴘᴜᴇᴅᴇs ᴀᴄᴛɪᴠᴀʀ ᴜɴᴀ ᴅᴇ ᴇsᴛᴀs ᴏᴘᴄɪᴏɴᴇs ᴅᴇ ᴇsᴛᴀ ᴍᴀɴᴇʀᴀ 𝗘𝗷𝗲𝗺𝗽𝗹𝗼: #antilink`.trim();
 
-  await conn.sendFile(m.chat, icons, 'Vegeta.jpg', text, m, true, {
+  await conn.sendFile(m.chat, icons, '', text, m, true, {
     contextInfo: {
       forwardingScore: 200,
       isForwarded: false,
