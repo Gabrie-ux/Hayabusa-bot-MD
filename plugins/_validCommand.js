@@ -1,9 +1,9 @@
-/*export async function before(m) {
+export async function before(m) {
   if (!m.text || !global.prefix.test(m.text)) {
     return;
   }
 
-  // Legnita good 
+  // Validar el prefijo correctamente
   const match = global.prefix.exec(m.text);
   const usedPrefix = match ? match[0] : "";
   
@@ -11,7 +11,7 @@
 
   if (!command) return;
 
-  // muevo before
+  // Función movida fuera de before para optimización
   if (validCommand(command, global.plugins)) {
     let chat = global.db.data.chats[m.chat];
     let user = global.db.data.users[m.sender];
@@ -33,4 +33,3 @@ function validCommand(command, plugins) {
   return Object.values(plugins).some(plugin =>
     plugin.command && (Array.isArray(plugin.command) ? plugin.command : [plugin.command]).includes(command)
   );
-}*/
