@@ -1,4 +1,4 @@
-export async function before(m) {
+/"export async function before(m) {
   if (!m.text || !global.prefix.test(m.text)) {
     return;
   }
@@ -33,4 +33,4 @@ function validCommand(command, plugins) {
   return Object.values(plugins).some(plugin =>
     plugin.command && (Array.isArray(plugin.command) ? plugin.command : [plugin.command]).includes(command)
   );
-}
+}*/
