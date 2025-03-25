@@ -3,7 +3,6 @@ export async function before(m) {
     return;
   }
 
- const match = global.prefix.excec(m.text);
  const usedPrefix = global.prefix.exec(m.text)[0];
   const command = m.text.slice(usedPrefix.length).trim().split(' ')[0].toLowerCase();
 
