@@ -1,12 +1,12 @@
 let handler = async (m) => {
 
 global.db.data.chats[m.chat].isBanned = true
-conn.reply(m.chat, `🍬 *Este chat fue mimido con éxito*`, m, rcanal)
+conn.reply(m.chat, `👑 *ᴇsᴛᴇ ᴄʜᴀᴛ ғᴜᴇ ʙᴀɴᴇᴀᴅᴏ ᴄᴏɴ ᴇxɪᴛᴏ*`, m, rcanal)
 
 }
 handler.help = ['banchat']
 handler.tags = ['grupo']
-handler.command = ['mimir']
+handler.command = ['banchat']
 
 handler.botuser = true
 handler.admin = true 
