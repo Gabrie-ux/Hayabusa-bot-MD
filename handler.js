@@ -589,7 +589,7 @@ private: `⚡ El comando *${comando}* solo puede ser usado al chat privado del b
 admin: `🔥 El comando *${comando}* solo puede ser usado por los administradores del grupo.`, 
 botAdmin: `🔥 Para ejecutar el comando *${comando}* debo ser administrador del grupo.`,
 unreg: `⚡ El comando *${comando}* solo puede ser usado por los usuarios registrado, registrate usando:\n> » #${verifyaleatorio} ${user2}.${edadaleatoria}`,
-restrict: `🍬 Esta caracteristica está desactivada.`
+restrict: `🔥 Esta caracteristica está desactivada.`
 }[type];
 if (msg) return m.reply(msg).then(_ => m.react('✖️'))}
 
