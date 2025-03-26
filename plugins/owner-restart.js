@@ -10,7 +10,7 @@ await delay(1000 * 1)
 await conn.sendMessage(m.chat, {text: `🔥ᴄᴀʀɢᴀɴᴅᴏ...`, edit: key})
 await delay(1000 * 1)
 await conn.sendMessage(m.chat, {text: `⚡ᴄᴀʀɢᴀɴᴅᴏ...`, edit: key})
-await conn.sendMessage(m.chat, {text: `*『👑』ᴄᴏᴍᴇɴᴢᴀʀ ʀᴇɪɴɪᴄɪᴏ ᴄᴏᴍᴘʟᴇᴛᴏ...*`, edit: key})
+await conn.sendMessage(m.chat, {text: `*『👑』ʀᴇɪɴɪᴄɪᴏ ᴄᴏᴍᴘʟᴇᴛᴏ...*`, edit: key})
 
 process.send('reset')
 } else throw 'eh'
