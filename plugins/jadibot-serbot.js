@@ -44,7 +44,7 @@ let rtx2 = `☆ *𝐕𝐄𝐆𝐄𝐓𝐀 - 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓* �
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
-const yukiJBOptions = {}
+const vegetaJBOptions = {}
 if (global.conns instanceof Array) console.log()
 else global.conns = []
 let handler = async (m, { conn, args, usedPrefix, command, isOwner }) => {
