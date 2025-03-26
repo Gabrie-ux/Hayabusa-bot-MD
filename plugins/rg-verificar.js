@@ -44,15 +44,15 @@ fechaBio = biografia[0].setAt ? new Date(biografia[0].setAt).toLocaleDateString(
 let regbot = `🔮 𝗥 𝗘 𝗚 𝗜 𝗦 𝗧 𝗥 𝗔 𝗗 𝗢 🔮\n`
 regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
 regbot += `「👤」𝗡𝗼𝗺𝗯𝗿𝗲 » ${name}\n`
-regbot += `「🙋🏻」𝗘𝗱𝗮𝗱 » ${age} años\n`
+regbot += `「🔎」𝗘𝗱𝗮𝗱 » ${age} años\n`
 regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
 regbot += `「✨」 𝗥𝗲𝗰𝗼𝗺𝗽𝗲𝗻𝘀𝗮𝘀:\n`
-regbot += `> • 💥 *${moneda}* » 40\n`
-regbot += `> • 💫 *Experiencia* » 300\n`
-regbot += `> • 🌜 *Tokens* » 20\n`
+regbot += `> • 🪙 *${moneda}* » 40\n`
+regbot += `> • 🚀 *Experiencia* » 300\n`
+regbot += `> • 🔖 *Tokens* » 20\n`
 regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
 regbot += `${dev}`
-await m.react('👾')
+await m.react('🪐')
 //await m.reply(mini)
 await conn.sendMessage(m.chat, {
         text: regbot,
