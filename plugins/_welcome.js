@@ -5,7 +5,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
   if (!m.messageStubType || !m.isGroup) return !0;
 
   let who = m.messageStubParameters[0]
-  let taguser = `@${who.split('@')[0]}`  // Corrección aquí
+  let taguser = `@${who.split('@')[0]}`
   let chat = global.db.data.chats[m.chat]
   let totalMembers = participants.length
   let date = new Date().toLocaleString('es-ES', { timeZone: 'America/Mexico_City' })
@@ -48,7 +48,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
   let fraseRandomBienvenida = frasesBienvenida[Math.floor(Math.random() * frasesBienvenida.length)]
   let fraseRandomDespedida = frasesDespedida[Math.floor(Math.random() * frasesDespedida.length)]
 
-  let videoUrl = 'https://files.catbox.moe/ef2d5u.jpg'
+  let imageUrl = 'https://files.catbox.moe/ef2d5u.jpg'
 
   if (chat.welcome) {
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
@@ -67,7 +67,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
 
 > 𝐅𝐫𝐚𝐜𝐞 𝐝𝐞 𝐛𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐚 
 ${fraseRandomBienvenida}` 
-      await conn.sendMessage(m.chat, { video: { url: videoUrl }, gifPlayback: true, caption: bienvenida, mentions: [who] })
+      await conn.sendMessage(m.chat, { image: { url: imageUrl }, caption: bienvenida, mentions: [who] })
     }
 
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_LEAVE ||
@@ -86,7 +86,7 @@ ${fraseRandomBienvenida}`
 ┗━━━━━━━━━━━━━━━━┅┈
 > 𝐅𝐫𝐚𝐜𝐞 𝐝𝐞 𝐝𝐞𝐬𝐩𝐞𝐝𝐢𝐝𝐚
 ${fraseRandomDespedida}` 
-      await conn.sendMessage(m.chat, { video: { url: videoUrl }, gifPlayback: true, caption: despedida, mentions: [who] })
+      await conn.sendMessage(m.chat, { image: { url: imageUrl }, caption: despedida, mentions: [who] })
     }
   }
 }
