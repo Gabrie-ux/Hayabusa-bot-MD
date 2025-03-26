@@ -13,7 +13,7 @@ let handler = async (m, { conn, args }) => {
 
 ☁️ †|Brayan★
 🔖 *Rol:* Creador
-👾 *GitHub:* https://github.com/brayan127p
+👾 *GitHub:* https://github.com/BrayanOFC
 
 🍃 *Colaboradores:*
 
