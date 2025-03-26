@@ -1,4 +1,6 @@
-const { useMultiFileAuthState, DisconnhectReason, makeCacheableSignalKeyStore, fetchLatestBaileysVersion } = (await import("@whiskeysockets/baileys"));
+Cambia el Código de jadibots por este 
+
+const { useMultiFileAuthState, DisconnectReason, makeCacheableSignalKeyStore, fetchLatestBaileysVersion } = (await import("@whiskeysockets/baileys"));
 import qrcode from "qrcode";
 import NodeCache from "node-cache";
 import fs from "fs";
