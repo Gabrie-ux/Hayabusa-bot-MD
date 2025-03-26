@@ -5,12 +5,12 @@ if (!process.send) throw '*『✦』Reiniciar: node start.js*\n*『✦』Reinici
 
 if (conn.user.jid == conn.user.jid) {
 
-const { key } = await conn.sendMessage(m.chat, {text: `🗂️ Cargando...`}, {quoted: m})
+const { key } = await conn.sendMessage(m.chat, {text: `🚀 ᴄᴀʀɢᴀɴᴅᴏ...`}, {quoted: m})
 await delay(1000 * 1)
-await conn.sendMessage(m.chat, {text: `📦 Cargando...`, edit: key})
+await conn.sendMessage(m.chat, {text: `🔥ᴄᴀʀɢᴀɴᴅᴏ...`, edit: key})
 await delay(1000 * 1)
-await conn.sendMessage(m.chat, {text: `♻️ Cargando...`, edit: key})
-await conn.sendMessage(m.chat, {text: `*『☁️』Comenzar reinicio completo...*`, edit: key})
+await conn.sendMessage(m.chat, {text: `⚡ᴄᴀʀɢᴀɴᴅᴏ...`, edit: key})
+await conn.sendMessage(m.chat, {text: `*『👑』ᴄᴏᴍᴇɴᴢᴀʀ ʀᴇɪɴɪᴄɪᴏ ᴄᴏᴍᴘʟᴇᴛᴏ...*`, edit: key})
 
 process.send('reset')
 } else throw 'eh'
