@@ -41,7 +41,7 @@ let handler = async (m, { conn, args, usedPrefix, command, isOwner }) => {
   vegetaJBOptions.args = args;
   vegetaJBOptions.usedPrefix = usedPrefix;
   vegetaJBOptions.command = command;
-  VegetaJadiBot(vegetaJBOptions);
+  vegetaJadiBot(vegetaJBOptions);
 
   global.db.data.users[m.sender].Subs = new Date() * 1;
 };
