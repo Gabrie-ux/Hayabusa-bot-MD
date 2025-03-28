@@ -68,8 +68,8 @@ global.textbot = ' (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉 • P·:*¨�
 global.moneda = 'dragones'
 global.welcom1 = 'Edita Con #setwelcome'
 global.welcom2 = 'Edita Con #setbye'
-global.banner = 'https://files.catbox.moe/2v7j6r.jpg'
-global.catalogo = 'https://files.catbox.moe/2v7j6r.jpg'
+global.banner = 'https://files.catbox.moe/j0z1kz.jpg'
+global.catalogo = 'https://files.catbox.moe/j0z1kz.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
