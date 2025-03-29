@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;𝚅𝙴𝙶𝙴𝚃𝙰+-+𝙱𝙾𝚃+-+𝙼𝙱;Gracias+por+preferirnos;Creado+por+Brayan;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
 ![Vegeta](https://qu.ax/zKuno.jpg)
 
-> ⚜️ Versión 2.12.3
+> 💌 Versión 2.13.3
 
 <div align="center">
  
@@ -176,7 +176,7 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 | WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW) |
  
 
-### **`🔱 Propietario`**
+### **`🚀 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐`**
 <a
 href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Brayan"/></a>
 
@@ -184,7 +184,7 @@ href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="1
 
 
 
-### **`🌹 CREDITOS`**
+### **`💵 𝑪𝑹𝑬𝑫𝑰𝑻𝑶𝑺`**
 <a
 href="https://github.com/brayan127p"><img src="https://github.com/brayan127p.png" width="140" height="140" alt="Brayan"/></a>
 
