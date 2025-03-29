@@ -188,4 +188,5 @@ href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="1
 <a
 href="https://github.com/brayan127p"><img src="https://github.com/brayan127p.png" width="140" height="140" alt="Brayan"/></a>
 
+
 [© Powered By Team STARCORE ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
