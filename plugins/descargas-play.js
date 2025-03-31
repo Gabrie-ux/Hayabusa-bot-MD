@@ -73,7 +73,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
 │
 │ ✦ Ingresa el nombre de la música a descargar.
 │
-└────────────────────┘.`, m);
+└────────────────────┘`, m);
     }
 
     const search = await yts(text);
