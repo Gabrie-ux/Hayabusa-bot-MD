@@ -28,20 +28,20 @@ console.log(`Error : ${e}`)
 }}
 
 //creador y otros
-global.creador = 'Wa.me/526731010376'
+global.creador = 'Wa.me/51941658192'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/526731010376'
-global.namechannel = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
-global.namechannel2 = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
-global.namegrupo = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
-global.namecomu = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
+global.namechannel = '·:*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
+global.namechannel2 = '·:*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
+global.namegrupo = '·:*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
+global.namecomu = '·:*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
 global.listo = '🍬 *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
 //Ids channel
 global.idchannel = '120363394965381607@newsletter'
 global.canalIdM = ["120363394965381607@newsletter", "120363394965381607@newsletter"]
-global.canalNombreM = ["𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱*:·", "𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱"]
+global.canalNombreM = ["hayabusa-𝙱𝙾𝚃-𝙼𝙱*:·", "𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -58,7 +58,7 @@ global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Vegeta Bot
+//Emojis determinado de hayabusa Bot
 global.emoji = '🍧'
 global.emoji2 = '🍬'
 global.emoji3 = '🍨'
@@ -72,8 +72,9 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, ...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'  
-let canal2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
+var canal = '.
+https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'  
+let canal2 = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
 var git = 'https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH'
 var github = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq' 
 let correo = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq'
