@@ -61,14 +61,14 @@ global.packsticker2 = `━━━━━━━━♾\n⪛·:*¨♱hayabusa-𝙱�
 global.packname = `⪛✰¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱¨*:·`
 global.botname = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
 global.wm = 'ৎ୭࠭͢𓆪͟͞ 𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱'
-global.author = 'Made By (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉'
+global.author = 'uff'
 global.dev = 'Made With *IM GABRIEL* '
 global.textbot = ' (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉 • P·:*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙳♱ ¨*:·'
 
 global.moneda = 'dragones'
 global.welcom1 = 'Edita Con #setwelcome'
 global.welcom2 = 'Edita Con #setbye'
-global.banner = 'https://files.catbox.moe/j0z1kz.jpg'
+global.banner = 'https://files.catbox.moe/8kkkiy.jpg'
 global.catalogo = 'https://files.catbox.moe/j0z1kz.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -103,7 +103,7 @@ global.gp2 = 'https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH'
 global.comunidad1 = 'https://chat.whatsapp.com/DiahfK9brw0Azwsk4R9tku'
 global.channel = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
-global.md = ‘https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
+global.md = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
 global.correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
 global.cn ='https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH';
 
@@ -114,8 +114,8 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.ch = {
-ch1: '120363394965381607@newsletter',
-ch2: '120363394965381607@newsletter',
+ch1: 'newsletter del canal',
+ch2: '',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
