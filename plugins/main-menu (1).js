@@ -30,12 +30,12 @@ let perfil = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://file
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 const vid = ['https://qu.ax/TWFjA.mp4', 'https://qu.ax/TWFjA.mp4', 'https://qu.ax/TWFjA.mp4']
 
-let menu = `𔓕꯭  ꯭ :*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·  ꯭𔓕
+let menu = `𔓕꯭  ꯭ :*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·  ꯭𔓕
 
-👑 ¡𝕙𝕠𝕝𝕒! *${taguser}* 𝕓𝕚𝕖𝕟𝕧𝕖𝕟𝕚𝕕@ 𝕒 𝕖𝕝 𝕞𝕖𝕟𝕦 𝕕𝕖 𝚅𝙴𝙶𝙴𝚃𝙰 ${saludo}. 
+👑 ¡𝕙𝕠𝕝𝕒! *${taguser}* 𝕓𝕚𝕖𝕟𝕧𝕖𝕟𝕚𝕕@ 𝕒 𝕖𝕝 𝕞𝕖𝕟𝕦 𝕕𝕖 hayabusa${saludo}. 
 
 ┌── ∘°❉°∘「 𝑰𝑵𝑭𝑶 𝑪𝑹𝑬𝑨𝑫𝑶𝑹ᚐ 」⪨
-> ❂ ⧼👑⧽ *ℭreador:* ʙʀᴀʏᴀɴ ᴏғᴄ
+> ❂ ⧼👑⧽ *ℭreador:* I'm Gabriel 
 > ❂ ⧼🔱⧽ *Modo:* Publico
 > ❂ ⧼🌠⧽ *Baileys:* Multi Device
 > ❂ ⧼🤖⧽ *Bot:* ${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}
@@ -497,7 +497,7 @@ let menu = `𔓕꯭  ꯭ :*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼
 ┃🜲 >
 ┃🜲 =>
 ┗━━━━━━━━━━━━━━━━━⪨
-> © 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 *☆꧁༒BRAYAN༒꧂☆*`.trim()
+> © 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 *☆꧁༒GABRIEL༒꧂☆*`.trim()
 
 await conn.sendMessage(m.chat, { video: { url: vid.getRandom() }, caption: menu, contextInfo: { mentionedJid: [m.sender], isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, newsletterName: channelRD.name, serverMessageId: -1, }, forwardingScore: 999, externalAdReply: { title: '〽️ ꙰,𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃', body: dev, thumbnailUrl: perfil, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false,
 }, }, gifPlayback: true, gifAttribution: 0 }, { quoted: null })
