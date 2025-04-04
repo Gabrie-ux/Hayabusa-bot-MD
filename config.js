@@ -36,7 +36,7 @@ global.owner = [
 global.mods = ['5216641804242', '584120515006', '5216633900512', '573004828388', '573154062343']
 global.suittag = ['584120346669']
 global.prems = []
-global.numcreador = '526641804242'
+global.numcreador = '51941658192'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -45,7 +45,7 @@ global.baileys = 'V 6.7.9'
 global.languaje = 'Español'
 global.vs = '2.1.5'
 global.vsJB = '5.0'
-global.nameqr = '𝚅𝙴𝙶𝙴𝚃𝙰 - 𝙱𝙾𝚃 - 𝙼𝙱'
+global.nameqr = 'hayabusa- 𝙱𝙾𝚃 - 𝙼𝙱'
 global.namebot = '✿◟𝚅𝚎𝚐𝚎𝚝𝚊-𝙱𝚘𝚝-𝙼𝙱◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
@@ -54,7 +54,7 @@ global.VegetaJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packsticker =`°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n✦ Bσƚ:\n✦ Pɾσριҽƚαɾισ:\n✦ Fҽƈԋα ԃҽ Cɾҽαƈιóɳ:\n✦ Hσɾα ԃҽ Cɾҽαƈιóɳ:\n♾━━━━━━━━`
-global.packsticker2 = `━━━━━━━━♾\n⪛·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·⪜\n⋆ ༺Ƹ (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉\n⇝ ${moment.tz('america/Los_angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_angeles').format('HH:mm:ss')} \n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\nѕτιϲκєя ϐγ: 𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱`
+global.packsticker2 = `━━━━━━━━♾\n⪛·:*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·⪜\n⋆ ༺Ƹ (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉\n⇝ ${moment.tz('america/Los_angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_angeles').format('HH:mm:ss')} \n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\nѕτιϲκєя ϐγ: hayabusa-𝙱𝙾𝚃-𝙼𝙱`
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -63,7 +63,7 @@ global.botname = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*
 global.wm = 'ৎ୭࠭͢𓆪͟͞ 𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱'
 global.author = 'Made By (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ  (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉'
-global.textbot = ' (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉 • P·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙳♱ ¨*:·'
+global.textbot = ' (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉 • P·:*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙳♱ ¨*:·'
 
 global.moneda = 'dragones'
 global.welcom1 = 'Edita Con #setwelcome'
@@ -101,9 +101,9 @@ global.gp4 = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq'
 global.gp1 = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq' 
 global.gp2 = 'https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH'
 global.comunidad1 = 'https://chat.whatsapp.com/DiahfK9brw0Azwsk4R9tku'
-global.channel = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.channel2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.md = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
+global.channel = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
+global.md = ‘https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
 global.correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
 global.cn ='https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH';
 
