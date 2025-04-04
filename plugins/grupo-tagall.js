@@ -1,5 +1,5 @@
 /* 
-- tagall By Angel-OFC  
+- tagall By Gabriel-OFC  
 - etiqueta en un grupo a todos
 -https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i
 */
