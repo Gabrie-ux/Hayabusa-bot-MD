@@ -171,8 +171,8 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
-| WhatsApp | Team STARCORE | [¡Click aquí!](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S) |
+| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i) |
+| WhatsApp | Team STARCORE | [¡Click aquí!](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i) |
 | WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW) |
  
 
