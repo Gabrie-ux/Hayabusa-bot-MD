@@ -25,7 +25,7 @@ let handler = async (m, { conn, usedPrefix, isRowner }) => {
     const used = process.memoryUsage();
     
     let hayabusa = `\\Información - ${botname}\\n`;
-    Vegeta += `👑꙰᠁❥ *◜Creador◞* ⇢ †|Gabriel★\n`;
+    hayabusa += `👑꙰᠁❥ *◜Creador◞* ⇢ †|Gabriel★\n`;
     hayabusa += `⚜️꙰᠁❥ *◜Prefijo◞* ⇢ [ ${usedPrefix} ]\n`;
     hayabusa += `📚꙰᠁❥ *◜Versión◞* ⇢ ${vs}\n`;
     hayabusa += `🔐꙰᠁❥ *◜Chats Privados◞* ⇢ ${chats.length - groupsIn.length}\n`;
