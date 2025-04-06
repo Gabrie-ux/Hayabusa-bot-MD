@@ -38,7 +38,7 @@ let menu = `𔓕꯭  ꯭ :*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·�
 > ❂ ⧼👑⧽ *ℭreador:* I'm Gabriel 
 > ❂ ⧼🔱⧽ *Modo:* Publico
 > ❂ ⧼🌠⧽ *Baileys:* Multi Device
-> ❂ ⧼🤖⧽ *Bot:* ${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}
+> ❂ ⧼🤖⧽ *Bot:* ${(conn.user.jid == global.conn.user.jid ? 'bot Oficial' : 'Sub-Bot')}
 > ❂ ⧼⏱️⧽ *Activado:* ${uptime}
 > ❂ ⧼👥⧽ *Usuarios:* ${totalreg}
 └──────── °∘❉∘° ────────┘
