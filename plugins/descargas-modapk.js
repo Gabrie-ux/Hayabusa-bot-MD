@@ -29,7 +29,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
       apkSession.set(m.chat, { app });
 
       // Descripción de la aplicación
-      let description = `⌘━─━─≪ *𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱 ™* ≫─━─━⌘\n`;
+      let description = `⌘━─━─≪ *HAYABUSA-𝙱𝙾𝚃-𝙼𝙱 ™* ≫─━─━⌘\n`;
       description += `➷ *Nombre:* ${app.name}\n`;
       description += `➷ *Desarrollador:* ${app.developer}\n`;
       description += `➷ *ID:* ${app.id}\n`;
@@ -94,7 +94,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
         document: { url: downloadUrl },
         mimetype: "application/vnd.android.package-archive",
         fileName: `${app.name}.apk`,
-        caption: `⟡ *${app.name}*\n⟡ APK listo para descargar.\n> Powered by VEGETA™`
+        caption: `⟡ *${app.name}*\n⟡ APK listo para descargar.\n> Powered by HAYABUSA™`
       },
       { quoted: m }
     );
