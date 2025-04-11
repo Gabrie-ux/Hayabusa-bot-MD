@@ -226,7 +226,7 @@ sock.isInit = true
 global.conns.push(sock)
 await joinChannels(sock)
 
-m?.chat ? await conn.sendMessage(m.chat, {text: args[0] ? `@${m.sender.split('@')[0]}, ya estás conectado, leyendo mensajes entrantes...` : `genial @${m.sender.split('@')[0]}, bienvenido a la familia de VEGETA-BOT MB estás listo para la aventura.`, mentions: [m.sender]}, { quoted: m }) : ''
+m?.chat ? await conn.sendMessage(m.chat, {text: args[0] ? `@${m.sender.split('@')[0]}, ya estás conectado, leyendo mensajes entrantes...` : `genial @${m.sender.split('@')[0]}, bienvenido a la familia de HAYABUSA-BOT MB estás listo para la aventura.`, mentions: [m.sender]}, { quoted: m }) : ''
 
 }}
 setInterval(async () => {
