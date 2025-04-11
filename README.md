@@ -1,8 +1,8 @@
-<h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱 💨</h1>
+<h1 align="center">HAYABUSA-𝙱𝙾𝚃-𝙼𝙱 💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;𝚅𝙴𝙶𝙴𝚃𝙰+-+𝙱𝙾𝚃+-+𝙼𝙱;Gracias+por+preferirnos;Creado+por+Brayan;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;𝚅𝙴𝙶𝙴𝚃𝙰+-+𝙱𝙾𝚃+-+𝙼𝙱;Gracias+por+preferirnos;Creado+por+Gabriel;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
 ![Vegeta](https://qu.ax/zKuno.jpg)
 
 > 💌 Versión 2.13.3
@@ -67,7 +67,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/brayan127p/VEGETA-BOT-MB && cd VEGETA-BOT-MB
+git clone https://github.com/brayan127p/VEGETA-BOT-MB && cd HAYABUSA-BOT-MB
 ```
 
 ```bash
@@ -86,7 +86,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd VEGETA-BOT-MB
+    cd Hayabusa-BOT-MB
     ```
 
 2. Inicia el bot nuevamente:
@@ -140,7 +140,7 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
  
 
 <details>
- <summary><b> ❤️ servidor Luminary's</b></summary>
+ <summary><b> ❤️ servidor skiultraplus's</b></summary>
 
 * Estado Luminarys [`Status`](https://estado.dash.Luminary's.shop)
 * Dash Luminary's[`Dash`](https://dash.luminarys.shop/home)
@@ -178,7 +178,7 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 
 ### **`🚀 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐`**
 <a
-href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Brayan"/></a>
+href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Gabriel"/></a>
 
 </a> 
 
