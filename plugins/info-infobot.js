@@ -55,30 +55,30 @@ setTimeout(resolve, 1000)
 }
 let timestamp = speed()
 let latensi = speed() - timestamp
-let 𝚅𝚎𝚐𝚎𝚝𝚊 = `╭─⬣「 *Info De ${botname}* 」⬣\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
+let hayabusa = `╭─⬣「 *Info De ${botname}* 」⬣\n`
+hayabusa += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
 𝚅𝚎𝚐𝚎𝚛𝚊 += `│ 🍭 *Prefijo* : [  ${usedPrefix}  ]\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 📦 *Total Plugins* : ${totalf}\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 💫 *Plataforma* : ${platform()}\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🧿 *Servidor* : ${hostname()}\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🚀 *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}\n`
-𝚅𝚎𝚐𝚎𝚛𝚊 += `│ 🌟 *FreeRAM* : ${format(freemem())}\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ ✨️ *Speed* : ${latensi.toFixed(4)} ms\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🕗 *Uptime* : ${uptime}\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🍨 *Modo* : ${bot.public ? 'Privado' : 'Publico'}\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ ☁️ *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🍬 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
-vegeta += `│ 🍧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `╰─⬣\n\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `╭─⬣「 *Chats De ${botname}* 」⬣\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🧃 *${groupsIn.length}* Chats en Grupos\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🌸 *${groupsIn.length}* Grupos Unidos\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 🍁 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
+hayabusa += `│ 📦 *Total Plugins* : ${totalf}\n`
+hayabusa += `│ 💫 *Plataforma* : ${platform()}\n`
+hayabusa += `│ 🧿 *Servidor* : ${hostname()}\n`
+hayabusa+= `│ 🚀 *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}\n`
+hayabusa+= `│ 🌟 *FreeRAM* : ${format(freemem())}\n`
+hayabusa += `│ ✨️ *Speed* : ${latensi.toFixed(4)} ms\n`
+hayabusa += `│ 🕗 *Uptime* : ${uptime}\n`
+hayabusa += `│ 🍨 *Modo* : ${bot.public ? 'Privado' : 'Publico'}\n`
+Hayabusa += `│ ☁️ *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )\n`
+hayabusa += `│ 🍬 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
+hayabusa += `│ 🍧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
+hayabusa += `╰─⬣\n\n`
+Hayabusa += `╭─⬣「 *Chats De ${botname}* 」⬣\n`
+hayabusa += `│ 🧃 *${groupsIn.length}* Chats en Grupos\n`
+hayabusa += `│ 🌸 *${groupsIn.length}* Grupos Unidos\n`
+hayabusa += `│ 🍁 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
 𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 💬 *${chats.length - groupsIn.length}* Chats Privados\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 💭 *${chats.length}* Chats Totales\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `╰─⬣\n\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `╭─⬣「 *NodeJS Uso de memoria* 」⬣\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
+hayabusa += `│ 💭 *${chats.length}* Chats Totales\n`
+hayabusa += `╰─⬣\n\n`
+hayabusa += `╭─⬣「 *NodeJS Uso de memoria* 」⬣\n`
+hayabusa += `${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
 𝚅𝚎𝚐𝚎𝚝𝚊 += `╰─⬣`
 
 await conn.reply(m.chat, vegeta, fkontak, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: packname, body: dev, previewType: 0, thumbnail: icons, sourceUrl: redes}}})
