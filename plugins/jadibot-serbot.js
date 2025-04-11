@@ -63,11 +63,11 @@ return m.reply(`${emoji2} No se han encontrado espacios para *Sub-Bots* disponib
 }
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let id = `${who.split`@`[0]}`  //conn.getName(who)
-let pathvegetaJadiBot = path.join(`./${jadi}/`, id)
+let pathhayabusaJadiBot = path.join(`./${jadi}/`, id)
 if (!fs.existsSync(pathvegetaJadiBot)){
 fs.mkdirSync(pathvegetaJadiBot, { recursive: true })
 }
-vegetaJBOptions.pathvegetaJadiBot = pathvegetaJadiBot
+vegetaJBOptions.pathhayabusaJadiBot = pathvegetaJadiBot
 vegetaJBOptions.m = m
 vegetaJBOptions.conn = conn
 vegetaJBOptions.args = args
@@ -90,7 +90,7 @@ args[0] = args[0].replace(/^--code$|^code$/, "").trim()
 if (args[1]) args[1] = args[1].replace(/^--code$|^code$/, "").trim()
 if (args[0] == "") args[0] = undefined
 }
-const pathCreds = path.join(pathvegetaJadiBot, "creds.json")
+const pathCreds = path.join(pathhayabusaJadiBot, "creds.json")
 if (!fs.existsSync(pathvegetaJadiBot)){
 fs.mkdirSync(pathvegetaJadiBot, { recursive: true })}
 try {
@@ -221,7 +221,7 @@ if (!global.db.data?.users) loadDatabase()
 let userName, userJid 
 userName = sock.authState.creds.me.name || 'Anónimo'
 userJid = sock.authState.creds.me.jid || `${path.basename(pathvegetaJadiBot)}@s.whatsapp.net`
-console.log(chalk.bold.cyanBright(`\n❒⸺⸺⸺⸺【• SUB-BOT •】⸺⸺⸺⸺❒\n│\n│ 🟢 ${userName} (+${path.basename(pathvegetaJadiBot)}) conectado exitosamente.\n│\n❒⸺⸺⸺【• CONECTADO •】⸺⸺⸺❒`))
+console.log(chalk.bold.cyanBright(`\n❒⸺⸺⸺⸺【• SUB-BOT •】⸺⸺⸺⸺❒\n│\n│ 🟢 ${userName} (+${path.basename(pathhayabusaJadiBot)}) conectado exitosamente.\n│\n❒⸺⸺⸺【• CONECTADO •】⸺⸺⸺❒`))
 sock.isInit = true
 global.conns.push(sock)
 await joinChannels(sock)
