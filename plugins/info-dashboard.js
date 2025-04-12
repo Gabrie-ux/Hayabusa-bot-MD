@@ -1,4 +1,4 @@
-let handler = async m, { conn, command }) => {
+let handler = async (m, { conn, command }) => {
 
     if (command == 'dash' || command == 'dashboard' || command == 'views') {
         let stats = Object.entries(db.data.stats).map(([key, val]) => {
