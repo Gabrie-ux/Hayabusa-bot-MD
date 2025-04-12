@@ -1,5 +1,5 @@
 {
-"name": "VEGETA-BOT-MB",
+"name": "HAYABUSA-BOT-MB",
 "version": "2.2.0",
 "description": "Super WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -20,7 +20,7 @@
 },
 "homepage": "https://github.com/brayan127p/VEGETA-BOT-MB",
 "author": {
-"name": "Brayan"
+"name": "Gabriel"
 },
 "repository": {
 "type": "git",
