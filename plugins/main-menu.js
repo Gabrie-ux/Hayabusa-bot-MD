@@ -47,7 +47,7 @@ let menu = `𔓕꯭  ꯭ :*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·�
 > ❂ ⧼👤⧽ *Cliente:* ${name}
 > ❂ ⧼🌐⧽ *País:* ${global.userNationality}
 > ❂ ⧼✨⧽ *Exp:* ${exp}
-> ❂ ⧼🐉⧽ *Dragones:* ${dragones}
+> ❂ ⧼🙌⧽ *monedas:* ${dragones}
 > ❂ ⧼🌟⧽ *Nivel:* ${level}
 > ❂ ⧼⚜️⧽ *Rango:* ${role}
 └──────── °∘❉∘° ────────┘
