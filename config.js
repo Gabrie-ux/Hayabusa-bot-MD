@@ -58,8 +58,8 @@ global.packsticker2 = `━━━━━━━━♾\n⪛·:*¨♱hayabusa-𝙱�
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `⪛✰¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱¨*:·`
-global.botname = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
+global.packname = `⪛✰¨♱HAYABUSA-𝙱𝙾𝚃-𝙼𝙱¨*:·`
+global.botname = '·:*¨♱HAYABUSA-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·'
 global.wm = 'ৎ୭࠭͢𓆪͟͞ 𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱'
 global.author = 'uff'
 global.dev = 'Made With *IM GABRIEL* '
