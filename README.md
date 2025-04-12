@@ -102,7 +102,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd VEGETA-BOT-MB
+    cd HAYABUSA-BOT-MB
     ```
 
 2. Elimina la carpeta MiniSession:
