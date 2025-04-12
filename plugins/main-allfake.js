@@ -72,8 +72,7 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, ...*';
 
 //Enlaces
-var canal = '.
-https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'  
+var canal = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'  
 let canal2 = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
 var git = 'https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH'
 var github = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq' 
