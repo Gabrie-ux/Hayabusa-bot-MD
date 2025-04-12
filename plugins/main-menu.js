@@ -32,13 +32,13 @@ const vid = ['https://files.catbox.moe/b36g86.mp4', 'https://files.catbox.moe/b3
 
 let menu = `𔓕꯭  ꯭ :*¨♱hayabusa-𝙱𝙾𝚃-𝙼𝙱♱ ¨*:·  ꯭𔓕
 
-👑 ¡𝕙𝕠𝕝𝕒! *${taguser}* 𝕓𝕚𝕖𝕟𝕧𝕖𝕟𝕚𝕕@ 𝕒 𝕖𝕝 𝕞𝕖𝕟𝕦 𝕕𝕖 hayabusa ${saludos}.
+👑 ¡𝕙𝕠𝕝𝕒! *${taguser}* 𝕓𝕚𝕖𝕟𝕧𝕖𝕟𝕚𝕕@ 𝕒 𝕖𝕝 𝕞𝕖𝕟𝕦 𝕕𝕖 hayabusa.
 
 ┌── ∘°❉°∘「 𝑰𝑵𝑭𝑶 𝑪𝑹𝑬𝑨𝑫𝑶𝑹ᚐ 」⪨
 > ❂ ⧼👑⧽ *ℭreador:* I'm Gabriel 
 > ❂ ⧼🔱⧽ *Modo:* Publico
 > ❂ ⧼🌠⧽ *Baileys:* Multi Device
-> ❂ ⧼🤖⧽ *Bot:* ${(conn.user.jid == global.conn.user.jid ? 'bot Oficial' : 'principal-Bot')}
+> ❂ ⧼🤖⧽ *Bot:* ${(conn.user.jid == global.conn.user.jid ? '(Main-Bot)' : '(Sub-bot)')}
 > ❂ ⧼⏱️⧽ *Activado:* ${uptime}
 > ❂ ⧼👥⧽ *Usuarios:* ${totalreg}
 └──────── °∘❉∘° ────────┘
