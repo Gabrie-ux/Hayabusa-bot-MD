@@ -74,12 +74,12 @@ Hayabusa += `╭─⬣「 *Chats De ${botname}* 」⬣\n`
 hayabusa += `│ 🧃 *${groupsIn.length}* Chats en Grupos\n`
 hayabusa += `│ 🌸 *${groupsIn.length}* Grupos Unidos\n`
 hayabusa += `│ 🍁 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `│ 💬 *${chats.length - groupsIn.length}* Chats Privados\n`
+hayabusa += `│ 💬 *${chats.length - groupsIn.length}* Chats Privados\n`
 hayabusa += `│ 💭 *${chats.length}* Chats Totales\n`
 hayabusa += `╰─⬣\n\n`
 hayabusa += `╭─⬣「 *NodeJS Uso de memoria* 」⬣\n`
 hayabusa += `${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
-𝚅𝚎𝚐𝚎𝚝𝚊 += `╰─⬣`
+hayabusa += `╰─⬣`
 
 await conn.reply(m.chat, vegeta, fkontak, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: packname, body: dev, previewType: 0, thumbnail: icons, sourceUrl: redes}}})
 }
